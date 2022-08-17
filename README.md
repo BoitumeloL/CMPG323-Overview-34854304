@@ -20,6 +20,12 @@ Some of these branches could be:
 * **Hotfix**: This branch will be used to deal with any required fixes. It can branch off from the main branch, but has to be merged to both primary branches.
 * **Release**: This branch will be used to gather all the fixes and improvements made to the code and prepare the project for release. It will branch off from the develop branch and merged to both the primary branches.
 
+## The use of a .gitignore file within each project
+The **.gitignore** file will be used to hide files and/or directories that we do not want github to have access to. This ensures that git does not track these files.
+
+## Storage of credentials and sensitive information
+To store credentials and sensitive information in the upcoming projects, we will use a GitHub feature called **secrets**. This feature allows us to store sensitive information in a repository and to limit access to these secrets.
+
 
 
 
