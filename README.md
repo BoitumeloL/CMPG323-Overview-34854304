@@ -29,6 +29,20 @@ The **.gitignore** file will be used to hide files and/or directories that we do
 ## Storage of credentials and sensitive information
 To store credentials and sensitive information in the upcoming projects, we will use a GitHub feature called **secrets**. This feature allows us to store sensitive information in a repository and to limit access to these secrets.
 
+## REFERENCE LIST
+
+GitHub Docs. *Viewing your milestones progress*. https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/viewing-your-milestones-progress Date Accessed: 17 August 2022
+
+GitHub Docs. *About milestones*. https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones Date Accessed: 17 August 2022
+
+GitHub Docs. *Filtering issues and pull requests by milestone*. https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/filtering-issues-and-pull-requests-by-milestone Date Accessed: 17 August 2022
+
+https://uploads.sitepoint.com/wp-content/uploads/2019/06/155993572204-gitflow.png Date Accessed 17 August 2022
+
+GitHub Docs. *Encrypted Secrets*. https://docs.github.com/en/actions/security-guides/encrypted-secrets Date Accessed: 17 August 2022
+
+Wickramasinghe, S. (2021). *DevOps Branching Strategies Explained*. https://www.bmc.com/blogs/devops-branching-strategies/ Date Accessed: 17 August 2022
+
 
 
 
