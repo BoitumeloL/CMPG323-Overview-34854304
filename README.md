@@ -8,6 +8,9 @@ This module (CMPG 323) will have 5 Projects and a Portfolio of Evidence to be su
 
 The branching strategy to be used will be the **Git Flow** strategy. This branching strategy will be used in all the projects throughout this semester, unless stated otherwise.
 
+![image](https://user-images.githubusercontent.com/110591480/185218289-96de49f4-de51-4c17-9d98-50963fc9ba3f.png)
+
+
 ### Primary Branches
 
 There will be 2 primary branches **Main** and **Develop**. The main branch is where all the final code will be stored, and the develop branch is where the development of the specific project will happen. Once the code in the Develop branch is completed, tested and free of bugs, the changes in the Develop branch will be merged to the main branch.
