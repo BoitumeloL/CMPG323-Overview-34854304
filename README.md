@@ -11,6 +11,7 @@ The branching strategy to be used will be the **Git Flow** strategy. This branch
 ![image](https://user-images.githubusercontent.com/110591480/185218289-96de49f4-de51-4c17-9d98-50963fc9ba3f.png)
 
 
+
 ### Primary Branches
 
 There will be 2 primary branches **Main** and **Develop**. The main branch is where all the final code will be stored, and the develop branch is where the development of the specific project will happen. Once the code in the Develop branch is completed, tested and free of bugs, the changes in the Develop branch will be merged to the main branch.
@@ -28,6 +29,32 @@ The **.gitignore** file will be used to hide files and/or directories that we do
 
 ## Storage of credentials and sensitive information
 To store credentials and sensitive information in the upcoming projects, we will use a GitHub feature called **secrets**. This feature allows us to store sensitive information in a repository and to limit access to these secrets.
+
+## CHARTS
+
+### BURN DOWN CHART
+
+![burndownChart](https://user-images.githubusercontent.com/110591480/188153249-99fef03b-a32a-4a3a-bfbb-39eacc27fb45.png)
+
+A burndown chart is a graphical representation of the work that has been done and the work to be done versus time, hence the items are grouped according to status and it indicates the number of items or work to be done during the course of the semester in the sprints.
+
+### NUMBER OF ITEMS BY LABEL CHART
+
+![number of items by label](https://user-images.githubusercontent.com/110591480/188165838-013728d5-df08-45eb-b184-bf9b9c012ccd.png)
+
+This chart shows the number of items in each label. 
+
+### NUMBER OF ITEMS BY SPRINT
+
+![number of items by sprint_](https://user-images.githubusercontent.com/110591480/188153367-40d301bf-c7b3-484a-a0ef-cc4f98f88199.png)
+
+This chart shows the number of items or work that has been done - or to be done - in each sprint
+
+### NUMBER OF ITEMS BY STATUS CHART
+
+![number of items by status](https://user-images.githubusercontent.com/110591480/188154230-b2803775-bcd3-4b8b-bb7a-845a6d2ef33a.png)
+
+This chart groups the items by milestones (items with no milestones are class related) and it shows the number of items that are yet *to be done (To Do)*, *In Progress* and are *Done*
 
 ## REFERENCE LIST
 
