@@ -4,12 +4,25 @@ This repository is for project 1. This is where I will be keeping track of the w
 ## Repositories to be created
 This module (CMPG 323) will have 5 Projects and a Portfolio of Evidence to be submitted at the end of the year. For the projects, each project will have its own repository, same way that this Project (Project 1) has its own repository.
 
+### PROJECT 2 - CRUD RESTFUL API
+An API is software that is used to send information back and forth between the user and a web-app.
+
+![image](https://user-images.githubusercontent.com/110591480/201393822-aaa8b47d-b405-49ed-bcbe-48472f1f6c80.png)
+
+In this project, we implemented an API web service that made use of the REST and CRUD architectural styles.
+The RESTful API is able to communicate and transfer information to the cloud, an application, or other system. A RESTful API can be connected to a datasource so it can manage and communicate with the datasource. Lastly it has methods (HTTP commands) to access, manipulate and insert data. 
+CRUD is an acronym for Create, Read, Update and Delete; as seen from the acronym, it is a way to manipulate data, and describing how the application should work.
+
+![image](https://user-images.githubusercontent.com/110591480/201395606-b2a6f8c9-00cc-4c13-b117-a56d597e50ac.png)
+
+
+
+
 ## Branching Strategy
 
 The branching strategy to be used will be the **Git Flow** strategy. This branching strategy will be used in all the projects throughout this semester, unless stated otherwise.
 
 ![image](https://user-images.githubusercontent.com/110591480/185218289-96de49f4-de51-4c17-9d98-50963fc9ba3f.png)
-
 
 
 ### Primary Branches
