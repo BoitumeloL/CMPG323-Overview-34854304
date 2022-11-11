@@ -15,6 +15,19 @@ CRUD is an acronym for Create, Read, Update and Delete; as seen from the acronym
 
 ![image](https://user-images.githubusercontent.com/110591480/201395606-b2a6f8c9-00cc-4c13-b117-a56d597e50ac.png)
 
+### PROJECT 3 - STANDARDS AND PATTERNS (Architectural Patterns)
+Architectural patterns are solutions that can be used as templates to solve other problems, thus making it reusable, and they take architectural style into consideration. In this project the MVC Architectural pattern was used, together with the Repository pattern.
+
+* **MVC Architectural Pattern**
+
+![image](https://user-images.githubusercontent.com/110591480/201402147-7eae77a9-a6cc-40c1-8ece-c0148229f5e0.png)
+
+* **Repository Pattern** : A design pattern (A solution to problems faced during software development that has been standardised by software developers) that is the mediator between the domain and the data mapping layers. It uses an interface to access objects of the domain
+
+![image](https://user-images.githubusercontent.com/110591480/201403435-275a81ad-c010-4b79-8591-40c9b16b4654.png)
+
+
+
 
 
 
