@@ -22,10 +22,12 @@ Architectural patterns are solutions that can be used as templates to solve othe
 * **MVC Architectural Pattern**
 
 ![image](https://user-images.githubusercontent.com/110591480/201402147-7eae77a9-a6cc-40c1-8ece-c0148229f5e0.png)
+https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/
 
 * **Repository Pattern** : A design pattern (A solution to problems faced during software development that has been standardised by software developers) that is the mediator between the domain and the data mapping layers. It uses an interface to access objects of the domain
 
 ![image](https://user-images.githubusercontent.com/110591480/201403435-275a81ad-c010-4b79-8591-40c9b16b4654.png)
+https://dotnettutorials.net/lesson/repository-pattern-implementation-guidelines-csharp/
 
 ### PROJECT 4 - TESTING & RPA (ROBOTIC PROCESS AUTOMATION)
 
