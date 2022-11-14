@@ -14,6 +14,7 @@ The RESTful API is able to communicate and transfer information to the cloud, an
 CRUD is an acronym for Create, Read, Update and Delete; as seen from the acronym, it is a way to manipulate data, and describing how the application should work.
 
 ![image](https://user-images.githubusercontent.com/110591480/201395606-b2a6f8c9-00cc-4c13-b117-a56d597e50ac.png)
+https://www.edureka.co/blog/what-is-rest-api/
 
 ### PROJECT 3 - STANDARDS AND PATTERNS (Architectural Patterns)
 Architectural patterns are solutions that can be used as templates to solve other problems, thus making it reusable, and they take architectural style into consideration. In this project the MVC Architectural pattern was used, together with the Repository pattern.
