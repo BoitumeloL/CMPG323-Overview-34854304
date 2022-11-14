@@ -26,6 +26,15 @@ Architectural patterns are solutions that can be used as templates to solve othe
 
 ![image](https://user-images.githubusercontent.com/110591480/201403435-275a81ad-c010-4b79-8591-40c9b16b4654.png)
 
+### PROJECT 4 - TESTING & RPA (ROBOTIC PROCESS AUTOMATION)
+
+**Robotic Process Automation** is the automation of processes and tasks done by humans (i.e employees), these taskes are done by 'robots'and the employess then have the time to do more meaningful tasks.
+
+In this project Uipath Studio was used to do the User Acceptance Testing (UAT). UAT is the testing of a sytem by an end user to ensure that the system works as it should and that it meets the the system and user requirements. 
+
+The various functionalities (Login, view items, insert items, update items and delete items) of the Connected Office Device Management system were tested. The test was conducted with a given dataset, and the test yielded results (True, to show that the test was passed, and False to show that the test was failed)
+
+
 
 
 
